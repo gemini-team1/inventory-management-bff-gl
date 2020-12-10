@@ -45,6 +45,6 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: "inventory-management-bff-gl"
+connectsTo: "inventory-service"
 
 runtime: nodejs
